@@ -1,4 +1,4 @@
-import 'package:oop5/oop5.dart';
+import 'package:oop5/klassen/triangle.dart';
 import 'package:test/test.dart';
 
 void main() {
